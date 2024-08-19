@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./index.css";
-import { PokemonCards } from "./PokemonCards";
+import { PokemonCards } from "./Pokemoncards";
 
 export const Pokemon = () => {
   const [pokemon, setPokemon] = useState([]);
